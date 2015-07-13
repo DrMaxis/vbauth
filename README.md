@@ -1,5 +1,7 @@
-Authentication for [vBulletin](http://www.vBulletin.com) users in [Laravel 5](http://laravel.com/). Tested with vBulletin 4.x.
+Authentication for [vBulletin](http://www.vbulletin.com) users in [Laravel 5](http://laravel.com/). Tested with vBulletin 4.x.
 Based on https://github.com/przemekperon/laravel-vbauth/
+
+Not tested too much, it worked here so I'm gonna assume its gonna work for everyone... no seriously I'm just tired and too lazy to test.
 
 Installation
 ============
