@@ -1,5 +1,5 @@
 Authentication for [vBulletin](http://www.vBulletin.com) users in [Laravel 5](http://laravel.com/). Tested with vBulletin 4.x.
-Based on [https://github.com/przemekperon/laravel-vbauth/](https://github.com/przemekperon/laravel-vbauth/]
+Based on https://github.com/przemekperon/laravel-vbauth/
 
 Installation
 ============
