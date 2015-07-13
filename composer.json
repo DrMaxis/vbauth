@@ -1,0 +1,22 @@
+{
+    "name": "posttwo/vbauth",
+    "description": "Helps connect a laravel application with vBulletin 4.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Posttwo",
+            "email": "post159510@gmail.com"
+        }
+    ],
+	  "minimum-stability": "dev",
+	  "require": {
+		  "php": ">=5.4.0",
+		  "illuminate/support": "5.1.*"
+	  },
+	  "autoload": {
+		  "psr-4": {
+			  "Posttwo\\Vbauth\\": "src/"
+		  }
+	  }  
+	}
+}
