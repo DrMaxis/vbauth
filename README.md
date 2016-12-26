@@ -5,20 +5,6 @@ Not tested too much, it worked here so I'm gonna assume its gonna work for every
 
 Installation
 ============
- 
-Add `posttwo/vbauth` as a requirement to composer.json:
-
-```javascript
-{
-    "require": {
-        "pperon/vbauth": "1.*"
-    }
-}
-```
-
-Update your packages with `composer update` or install with `composer install`.
-
-Once Composer has installed or updated your packages you need to register Vbauth with Laravel itself. Open app/config/app.php and find the providers key towards the bottom and add:
 
 ```php
 'providers' => array(
